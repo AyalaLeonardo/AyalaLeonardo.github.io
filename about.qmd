@@ -1,0 +1,14 @@
+---
+title: "Leonard Ayala"
+about:
+  template: jolla
+  image: profile.jpg
+---
+
+About:
+
+I will graduate with my Masters in Economics this fall. My career interests include inclusive and affordable housing policy, and poverty. Musician. Writer. I like tacos. 
+
+Education:
+
+Experience:

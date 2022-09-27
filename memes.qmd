@@ -1,0 +1,27 @@
+---
+title: "Memes"
+author: "Leonard Ayala"
+date: "2022-09-12"
+categories: [Code, R, Art]
+image: "image.jpg"
+format:
+  html:
+    code-fold: true
+    code-tools: true
+---
+
+## 1. Le memes
+
+::: {#fig-space}
+![](https://www.boredpanda.com/blog/wp-content/uploads/2021/06/science-memes-10-60d9d291849e6__700.jpg){width="60%"}
+
+le funny
+:::
+
+<div>
+
+![](https://i.chzbgr.com/full/9643679488/hAE54539B/animal-rubbing-lab-bench-with-ethanol-001-bacteria-dare-oppose-mortal){width="60%"}
+
+bacteria be like
+
+</div>
