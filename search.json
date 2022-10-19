@@ -25,7 +25,7 @@
     "href": "assignments.html",
     "title": "Assignments for EPPS 6356",
     "section": "",
-    "text": "Code\n\n\nR\n\n\nPlots\n\n\nAssignment\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\nPrattasha, Kaitlyn, Bel, Leonardo\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nPlots\n\n\nAssignment\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\nLeonard Ayala\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nArt\n\n\n\n\n\n\n\n\n\n\n\nSep 17, 2022\n\n\nLeonard Ayala\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nArt\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2022\n\n\nLeonard Ayala\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 10, 2022\n\n\nLeonard\n\n\n\n\n\n\nNo matching items"
+    "text": "Code\n\n\nR\n\n\nPlots\n\n\nAssignment\n\n\n\n\n\n\n\n\n\n\n\nOct 18, 2022\n\n\nPrattasha, Kaitlyn, Bel, Leonardo\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nPlots\n\n\nAssignment\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\nPrattasha, Kaitlyn, Bel, Leonardo\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nPlots\n\n\nAssignment\n\n\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\nLeonard Ayala\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nArt\n\n\n\n\n\n\n\n\n\n\n\nSep 17, 2022\n\n\nLeonard Ayala\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCode\n\n\nR\n\n\nArt\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2022\n\n\nLeonard Ayala\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 10, 2022\n\n\nLeonard\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -54,5 +54,19 @@
     "title": "Assignment 4",
     "section": "Synergy Report",
     "text": "Synergy Report\nOur team diligently collaborated to create these data visualizations. Prattasha and Kaitlyn took the lead on the column chart. Bel took the lead on the animated table matrix. Leonard reviewed and merged all final codes to create our blog."
+  },
+  {
+    "objectID": "posts/Assignment 5/index.html#bar-chart",
+    "href": "posts/Assignment 5/index.html#bar-chart",
+    "title": "Assignment 5",
+    "section": "1. Bar Chart",
+    "text": "1. Bar Chart\nHere we have a bar chart that displays the total count of F’s for UTD students across the indicated subjects for the Fall 2021 and Spring 2022 academic year.\n\n\n\n\n\nThis bar chart shows the number of F’s per EPPS class for the Fall 2021 and Spring 2022 academic year. EPPS 2301 with the strong lead!\n\n\nWarning: Removed 32 rows containing missing values (position_stack).\n\n\n\n\n\n##. Column Chart\nThis column chart shows the count of A’s in Dr. Ho’s classes for the Fall 2021 and Spring 2022 semesters.\n\n\n     Course A.x       A.y\n1 EPPS 6323   5 0.5000000\n2 EPPS 6354   7 0.5384615\n3 EPPS 6356   6 0.4615385\n4 EPPS 7386  13 0.6500000\n5 PSCI 4314   5 0.1785714\n\n\n\n\n\n##. Circular Area Chart/ Spider Chart\nThis Spider Chart shows the frequency of A grades in Dr. Ho’s classes. Note that the students tend to perform better as the level of the class increases!\n\n\n        EPPS_6323 EPPS_6354 EPPS_7386 PSCI_4314 EPPS_6356 PSCI_4313 EPPS_6302\nKarl_Ho       0.8      0.54      0.95      0.42      0.92      0.61      0.77\n        EPPS_7V81 EPPS_7318\nKarl_Ho      0.86       0.9"
+  },
+  {
+    "objectID": "posts/Assignment 5/index.html#synergy-report",
+    "href": "posts/Assignment 5/index.html#synergy-report",
+    "title": "Assignment 5",
+    "section": "Synergy Report",
+    "text": "Synergy Report\nOur team diligently collaborated to create these data visualizations. Bel gathered and formatted the data. Leonard worked on the bar chart. Prattasha took the lead on the column chart. Kaitlyn took the lead on the circular area chart. Bel and Leonard edited and merged the group’s work."
   }
 ]
